@@ -176,13 +176,13 @@ GMM outperformed K-Means in terms of cluster flexibility because it accounts for
 
 🧭 Real-World Relevance
 
-Domain	                                           Application
+Domain	       :                                    Application
 
-Finance	                                       Customer segmentation by spending patterns
-Healthcare	                                   Patient risk clustering
-Speech Recognition	                           Modeling sound patterns probabilistically
-Marketing	                                     Identifying customer behavior clusters
-Anomaly Detection	                             Points with low probability under all Gaussians are flagged as anomalies
+Finance	    :                                (   Customer segmentation by spending patterns)
+Healthcare	     :                             ( Patient risk clustering)
+Speech Recognition	  :                         (Modeling sound patterns probabilistically)
+Marketing	          :                           (Identifying customer behavior clusters)
+Anomaly Detection	   :                          (Points with low probability under all Gaussians are flagged as anomalies)
 
 
 
